@@ -19,13 +19,13 @@ The project uses the following dependencies:
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/yourrepository.git
+git clone https://github.com/29deepanshutyagi/task.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd yourrepository
+cd task
 ```
 
 3. Activate your virtual environment:
